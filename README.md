@@ -14,7 +14,7 @@ A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaSc
 ## 📂 Project Structure
 - `index.html` – The structure of the game
 - `style.css` – The styling and layout
-- `script.js` – The game logic
+- `app.js` – The game logic
 
 ## 💡 How to Run Locally
 1. Clone the repository:
